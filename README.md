@@ -1,2 +1,5 @@
-# Linera_Regression_Homework
-Linear Regression Class Repository
+Hypothesis/
+Data/
+Analysis/
+Result/
+Conclusion/
